@@ -39,6 +39,5 @@ Contains 4 Keras Jupyter Notebook files which explain the working of keras on di
 
 <br>
 <br>
-<br>
 
 For better understanding of sequential model : https://keras.io/guides/sequential_model/
