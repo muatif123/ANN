@@ -30,7 +30,7 @@ More on Keras : https://www.tutorialspoint.com/keras/index.htm
 
 
 ### About the uploaded files
-Contains 4 Keras Jupyter Notebook files which explain the working of keras on different datasets
+Contains 4 Jupyter Notebook files which explain the working of tensorflow and keras on different datasets
 
 1. ##### Keras Basics Notebook : Understand the basics of keras on fake_reg csv of gems. With the help of basic visualization and data preprocesing to better train the model using Tensorflow and Keras's Sequential model with Dense Layers. 
 2. ##### Keras Regression: Explainining how to deal with regression kind of machine learning problems using Tensorflow and Keras
